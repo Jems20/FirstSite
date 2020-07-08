@@ -1,0 +1,70 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  color: #fd5e53;
+font-size: 5.625rem;
+  font-family: 'Sacramento', cursive;
+  margin: 15px auto 0px auto;
+}
+
+h2 {
+  color: #fd5e53;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.2rem;
+  font-weight: lighter;
+  margin: 15px auto 20px auto;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+
+}
+a {
+  color: #11999E;;
+}
+
+.top-container {
+  background-color: #b0eacd;
+  padding-top: 100px;
+  position: relative;
+}
+
+.middle-container {}
+
+.bottom-container {}
+
+.computer-image {
+  height: 120px;
+  width: 120px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.profilepic {
+  width: 175px;
+  height: 175px;
+}
+
+.pencils {
+  width: 120px;
+  height: 120px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
